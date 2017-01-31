@@ -8,4 +8,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="TabTheme">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:background">#7A869C</item>
+    </style>
+
 </resources>
